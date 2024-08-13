@@ -1,0 +1,7 @@
+smooth scrolling locomotive
+{
+    attach loco scroll css
+    attach smooth js code in script.js
+    add cdn link of locmotive min js
+}
+gsap scroll trigger
